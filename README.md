@@ -3,9 +3,9 @@
 
 - 🌱 I’m currently learning Flutters develop & Frameworks and try to develop thyself.
  
-👨‍💻 All of my projects are available at https://github.com/razibh?tab=repositories
+- 👨‍💻 All of my projects are available at https://github.com/razibh?tab=repositories
 
--I'm Working on the android development.
+- I'm Working on the android development.
 
 
 - 📫 How to reach me mrazib890@gmail.com
