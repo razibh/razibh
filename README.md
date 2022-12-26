@@ -14,5 +14,3 @@
 - my passion to learn new things, explore new ideas and on self-development. It has always been my focus on every available opportunity to improve myself skills. I want to pursue my goals with dedication, sincerity,
  honesty and hard work.
 
- Connect with me:
-https://www.facebook.com/razibhossain968
